@@ -3479,4 +3479,3 @@
             ci_cmd: '/bin/bash cico_run_tests.sh'
             timeout: '20m'
             image_name: 'fabric8-analytics/f8a-hpf-insights'
-
